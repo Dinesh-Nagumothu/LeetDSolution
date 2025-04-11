@@ -22,6 +22,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
+| [2998-count-symmetric-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
@@ -42,4 +43,8 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
