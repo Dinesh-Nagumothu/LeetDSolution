@@ -1,43 +1,23 @@
-from math import comb
-from collections import Counter
-
 class Solution:
     def countGoodIntegers(self, n: int, k: int) -> int:
-        base = 10 ** ((n + 1) // 2)
-        encoded_freqs = set()
+        if n == 1:
+            return sum(num % k == 0 for num in range(1, 10))
 
-        for half in range(base // 10, base):
-            half_str = str(half)
-            full_str = half_str + half_str[:-1][::-1] if n % 2 else half_str + half_str[::-1]
-            num = int(full_str)
-            if num % k == 0:
-                freq = [0] * 10
-                for ch in full_str:
-                    freq[int(ch)] += 1
-                # Encode using base 11
-                encoded = 0
-                for f in freq:
-                    encoded = encoded * 11 + f
-                encoded_freqs.add(encoded)
+        part_pals = [str(num) for num in range(10**((n//2) - 1), 10**(n//2))]
+        k_pals = []
+        if n % 2 == 0:
+            k_pals = [num + num[::-1] for num in part_pals]
+        else:
+            for mid in range(10):
+                k_pals.extend([num + str(mid) + num[::-1] for num in part_pals])
 
-        total = 0
-        for code in encoded_freqs:
-            freq = [0] * 10
-            for i in reversed(range(10)):
-                freq[i] = code % 11
-                code //= 11
+        k_pals = [p for p in k_pals if int(p) % k == 0]
+        perms = set(''.join(sorted(pal)) for pal in k_pals)
 
-            rem = n
-            ways = 1
-            for i in range(10):
-                if freq[i] > rem:
-                    ways = 0
-                    break
-                if i == 0:
-                    ways *= comb(rem - 1, freq[i])
-                else:
-                    ways *= comb(rem, freq[i])
-                rem -= freq[i]
-            total += ways
-
-        return total
+        cnt = 0
+        for p in perms:
+            freqs = Counter(p)
+            cnt += ((n - freqs.get('0', 0)) * factorial(n - 1))//prod(map(factorial, freqs.values()))
+        
+        return cnt
+   
