@@ -11,6 +11,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
+| [2050-count-good-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
