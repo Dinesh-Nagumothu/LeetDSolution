@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-
 (SELECT name as results
 FROM Users U JOIN MovieRating R ON U.user_id = R.user_id
 GROUP BY U.user_id
