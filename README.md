@@ -86,6 +86,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0626-exchange-seats) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [2057-count-salary-categories](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
