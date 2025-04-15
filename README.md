@@ -83,4 +83,8 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1327-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
