@@ -1,13 +1,15 @@
 # Write your MySQL query statement below
-
-
-SELECT
-ROUND(SUM(tiv_2016), 2) AS tiv_2016
-FROM(SELECT
-*,
-COUNT(*) OVER(PARTITION BY lat, lon ORDER BY lat, lon) AS cnt,
-COUNT(*) OVER(PARTITION BY tiv_2015) AS cnt2
-
+SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016
 FROM Insurance
-) t
-WHERE cnt=1 AND cnt2>1
+WHERE tiv_2015 IN (
+    SELECT tiv_2015
+    FROM Insurance
+    GROUP BY tiv_2015
+    HAVING COUNT(*) > 1
+)
+AND (lat, lon) IN (
+    SELECT lat, lon
+    FROM Insurance
+    GROUP BY lat, lon
+    HAVING COUNT(*) = 1
+)
