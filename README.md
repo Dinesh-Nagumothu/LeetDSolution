@@ -18,6 +18,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -58,4 +59,28 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
