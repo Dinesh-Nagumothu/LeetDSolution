@@ -18,6 +18,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
