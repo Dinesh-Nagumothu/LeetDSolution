@@ -1,13 +1,5 @@
 class Solution:
     def numberOfArrays(self, differences: List[int], lower: int, upper: int) -> int:
-        min_prefix = max_prefix = curr = 0
+        pfs = list(accumulate(differences, initial = 0))
 
-        for diff in differences:
-            curr += diff
-            min_prefix = min(min_prefix, curr)
-            max_prefix = max(max_prefix, curr)
-
-        min_start = lower - min_prefix
-        max_start = upper - max_prefix
-
-        return max(0, max_start - min_start + 1)
+        return max(0, upper - lower - max(pfs) + min(pfs) + 1)
