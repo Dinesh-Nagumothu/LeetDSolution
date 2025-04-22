@@ -32,6 +32,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
@@ -40,6 +41,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search
 |  |
@@ -121,4 +124,8 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2249-count-the-hidden-sequences) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
