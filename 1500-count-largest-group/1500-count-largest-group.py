@@ -1,11 +1,9 @@
 class Solution:
     def countLargestGroup(self, n: int) -> int:
-       
-        digit_sum_count = defaultdict(int)
-        
+        cnt = [0] * 40
+        rank = [0] * (n + 1)
         for i in range(1, n + 1):
-            digit_sum = sum(int(d) for d in str(i))
-            digit_sum_count[digit_sum] += 1
-        
-        max_size = max(digit_sum_count.values())
-        return sum(1 for count in digit_sum_count.values() if count == max_size)
+            group = i % 10 + rank[i // 10]
+            rank[i] = group
+            cnt[group] += 1
+        return cnt.count(max(cnt))
