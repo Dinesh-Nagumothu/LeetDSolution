@@ -24,6 +24,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -55,6 +56,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -114,6 +116,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
