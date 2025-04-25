@@ -1,18 +1,15 @@
 class Solution:
     def countInterestingSubarrays(self, nums: List[int], modulo: int, k: int) -> int:
-        count = 0
         prefix = 0
-        freq = defaultdict(int)
-        freq[0] = 1  # Initial prefix is 0 (no matching element yet)
+        count = 0
+        mp = {}
+        mp[0] = 1
 
-        for num in nums:
-            if num % modulo == k:
+        for ele in nums:
+            if ele%modulo == k:
                 prefix += 1
-
-            # We want to find previous prefix such that:
-            # prefix[j] % modulo == (prefix - k + modulo) % modulo
-            target = (prefix - k + modulo) % modulo
-            count += freq[target]
-            freq[prefix % modulo] += 1
-
+                prefix = prefix%modulo
+            count += mp.get((prefix-k)%modulo, 0)
+            # print(count, mp, (prefix-k)%modulo)
+            mp[prefix] = mp.get(prefix, 0) + 1
         return count
