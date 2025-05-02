@@ -48,6 +48,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -71,6 +72,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
 |  |
@@ -130,6 +132,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
