@@ -56,6 +56,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
