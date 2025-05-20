@@ -36,6 +36,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [3321-type-of-triangle](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
@@ -163,6 +164,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3639-zero-array-transformation-i) |
 ## Number Theory
 |  |
 | ------- |
