@@ -15,6 +15,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
@@ -74,6 +75,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1500-count-largest-group) |
@@ -199,6 +201,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0073-set-matrix-zeroes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
