@@ -33,6 +33,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
+| [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3321-type-of-triangle) |
@@ -97,6 +98,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | ------- |
 | [0038-count-and-say](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
+| [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
