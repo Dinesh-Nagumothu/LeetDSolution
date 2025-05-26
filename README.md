@@ -64,6 +64,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -86,6 +87,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -199,6 +201,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
@@ -208,6 +211,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -231,4 +235,12 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
