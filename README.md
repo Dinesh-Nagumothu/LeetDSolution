@@ -16,6 +16,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
@@ -175,6 +176,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
