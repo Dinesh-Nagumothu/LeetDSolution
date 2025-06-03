@@ -23,6 +23,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0945-snakes-and-ladders](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -218,6 +219,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -260,5 +262,6 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
