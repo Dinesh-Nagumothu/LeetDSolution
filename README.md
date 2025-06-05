@@ -107,6 +107,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | ------- |
 | [0038-count-and-say](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -267,4 +268,8 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [0945-snakes-and-ladders](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
