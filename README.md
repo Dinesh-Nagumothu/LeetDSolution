@@ -99,6 +99,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -113,6 +114,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
@@ -190,6 +192,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -232,6 +235,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -280,6 +284,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
 | ------- |
