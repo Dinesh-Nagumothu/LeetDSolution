@@ -264,6 +264,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0386-lexicographical-numbers) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -279,4 +280,8 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
