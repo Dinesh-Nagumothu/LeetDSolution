@@ -120,6 +120,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [3201-distribute-candies-among-children-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
