@@ -1,9 +1,5 @@
 class Solution:
     def maxAdjacentDistance(self, nums: List[int]) -> int:
-        max_diff = 0
-        n = len(nums)
-        for i in range(n):
-            next_idx = (i + 1) % n  # ensures circular adjacency
-            diff = abs(nums[i] - nums[next_idx])
-            max_diff = max(max_diff, diff)
-        return max_diff
+        N = len(nums)
+        nums.append(nums[0])
+        return max(abs(nums[i] - nums[i+1]) for i in range(N))
