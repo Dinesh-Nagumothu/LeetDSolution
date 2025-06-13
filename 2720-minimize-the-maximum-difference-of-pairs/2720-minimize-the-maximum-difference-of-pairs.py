@@ -1,23 +1,30 @@
 class Solution:
     def minimizeMax(self, nums: List[int], p: int) -> int:
+        if p==0:
+            return 0
+        n = len(nums)
         nums.sort()
-        
-        def can_form_pairs(max_diff):
-            count = 0
-            i = 1
-            while i < len(nums):
-                if nums[i] - nums[i - 1] <= max_diff:
-                    count += 1
-                    i += 2  # skip next index to avoid overlap
+        if p<<1==n:
+            imax = 0
+            for i in range(0, n-2+1, 2):
+                imax = max(imax, nums[i+1]-nums[i])
+            return imax
+        que = [nums[i]-nums[i-1] for i in range(1, n)]
+        def check(dmax):
+            i = 0
+            cnt = 0
+            while i<len(que) and cnt<p:
+                if que[i]<=dmax:
+                    i += 2
+                    cnt += 1
                 else:
                     i += 1
-            return count >= p
-
-        left, right = 0, nums[-1] - nums[0]
-        while left < right:
-            mid = (left + right) // 2
-            if can_form_pairs(mid):
-                right = mid
+            return cnt>=p
+        l, r = 0, max(que)
+        while l<r:
+            m = (l+r)>>1
+            if not check(m):
+                l = m + 1
             else:
-                left = mid + 1
-        return left
+                r = m
+        return l
