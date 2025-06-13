@@ -35,6 +35,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
@@ -143,6 +144,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
