@@ -57,6 +57,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [1500-count-largest-group](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3201-distribute-candies-among-children-ii) |
@@ -199,6 +200,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
