@@ -41,6 +41,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2915-count-of-interesting-subarrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -87,6 +88,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
@@ -205,6 +207,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3647-zero-array-transformation-iii) |
