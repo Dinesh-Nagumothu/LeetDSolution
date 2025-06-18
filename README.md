@@ -68,6 +68,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [3321-type-of-triangle](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Daily updated LeetCode solutions with clear explanations, focused on consistent 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dinesh-Nagumothu/LeetDSolution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Binary Search
 |  |
 | ------- |
